@@ -1,1 +1,1 @@
-# django-microservice-app.
+# django-microservice-app
